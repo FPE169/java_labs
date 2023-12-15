@@ -164,7 +164,7 @@ public class ProcessorTree {
                     break;
                 case "A":
                     int keyToAdd = scanner.nextInt();
-                    ProcessorRecord recordToAdd = new ProcessorRecord(keyToAdd, "Например ", 2.0, 256, 0.400, 664, 734);
+                    ProcessorRecord recordToAdd = new ProcessorRecord(keyToAdd, "Sample ", 2.0, 256, 0.400, 664, 734);
                     processorTree.insert(recordToAdd);
                     break;
                 case "S":
