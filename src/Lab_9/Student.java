@@ -19,7 +19,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Lab_10.Student{" +
+        return "Lab_10.lab17.Student{" +
                 "name='" + name + '\'' +
                 ", gpa=" + gpa +
                 '}';
